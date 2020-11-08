@@ -8,10 +8,11 @@
         <outputRelativeToContentRoot value="true" />
         <module name="leyou-item-interface" />
         <module name="leyou-gateway" />
+        <module name="leyou-common" />
         <module name="leyouitemservice" />
         <module name="leyou-registry" />
         <module name="leyou-item-service" />
-        <module name="leyou-common" />
+        <module name="leyou-upload" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -29,6 +30,7 @@
       <module name="leyou-item-service" options="-parameters" />
       <module name="leyou-item-test" options="-parameters" />
       <module name="leyou-registry" options="-parameters" />
+      <module name="leyou-upload" options="-parameters" />
       <module name="leyougateway" options="-parameters" />
       <module name="leyouitemservice" options="-parameters" />
     </option>
