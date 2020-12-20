@@ -12,6 +12,7 @@
         <module>leyou-common</module>
         <module>leyou-common</module>
         <module>leyou-upload</module>
+        <module>leyou-search</module>
     </modules>
     <!-- 父工程打包方式设为pom，进行版本控制 -->
     <packaging>pom</packaging>
